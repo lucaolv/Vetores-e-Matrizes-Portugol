@@ -1,4 +1,6 @@
 # Vetores-e-Matrizes-Portugol
+Prática no Portugal. Exercício da Trilha Zero da Generation T-65 de Full Stack Java Jr.
+
 
 ![image](https://user-images.githubusercontent.com/111596218/236978181-bf679e05-3d38-424e-80aa-359ee7861c00.png)
 
