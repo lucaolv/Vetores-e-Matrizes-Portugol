@@ -42,11 +42,11 @@ programa
 		Util.aguarde(2000) 
 		limpa()
 
-       	escreva("Todos os númeoros ímpares:\n")
+       	escreva("Elementos nos índices ímpares:\n")
 	     para(i = 1; i < 10; i+=2){
 	            escreva(vet[i], " ")
 	     }
-		escreva("\n\nTodos os númeors pares:\n")
+		escreva("\n\nElementos nos índices pares:\n")
 	     para(i = 0; i < 10; i++){ 
 	        	se(vet[i]%2==0){
 	        		escreva(vet[i], " ")
