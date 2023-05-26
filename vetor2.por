@@ -42,18 +42,18 @@ programa
 		Util.aguarde(2000) 
 		limpa()
 
-       	escreva("Elementos nos índices ímpares:\n")
-	     para(i = 1; i < 10; i+=2){
+       		escreva("Elementos nos índices ímpares:\n")
+	     	para(i = 1; i < 10; i+=2){
 	            escreva(vet[i], " ")
 	     }
 		escreva("\n\nElementos pares:\n")
-	     para(i = 0; i < 10; i++){ 
+	     	para(i = 0; i < 10; i++){ 
 	        	se(vet[i]%2==0){
 	        		escreva(vet[i], " ")
 	        	}     
 	     }
 		escreva("\n\nSoma de todos os elementos do vetor:\n")
-	     para(i = 0; i < 10; i++){	
+	     	para(i = 0; i < 10; i++){	
 	        	  soma = soma + vet[i]
 	     }
 		escreva(soma, "\n\n")
