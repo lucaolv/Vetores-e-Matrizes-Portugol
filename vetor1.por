@@ -6,7 +6,7 @@ programa
 		inteiro i, j, auxiliar, vetor[10] = {2, 5, 1, 3, 4, 9, 7, 8, 10, 6}
 				
 		escreva("Vetor gerado:\n")
-	     para(i = 0; i < 10; i++){
+	     	para(i = 0; i < 10; i++){
 	          escreva(vetor[i], " ")
 	     }
 		
@@ -22,8 +22,8 @@ programa
         	}
 
         	escreva("\n\n")
-       	escreva("Vetor em ordem decrescente:\n")
-	     para(i = 0; i < 10; i++){
+       		escreva("Vetor em ordem decrescente:\n")
+	     	para(i = 0; i < 10; i++){
 	            escreva(vetor[i], " ")
 	     }
 	}
