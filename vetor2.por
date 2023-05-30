@@ -58,7 +58,7 @@ programa
 	     }
 		escreva(soma, "\n\n")
 
-		media = soma/10
+		media = soma /10
 		
 		escreva("A média dos números é: ", media, "\n\n")		
 		escreva("Programa finalizando...\n")
